@@ -11,6 +11,7 @@ tags={
 	"Technologies"
 }
 name="End of a New Beginning - Github Version"
+path="mod/EOANB/EoaNB/toi"
 picture="thumbnail.png"
 replace_path="common/ai_equipment"
 replace_path="common/ai_templates"
